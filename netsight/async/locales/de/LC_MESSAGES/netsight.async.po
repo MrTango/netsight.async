@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: support@netsight.co.uk\n"
 
 msgid "processing_title"
-msgstr "Verarbeitung läuft..."
+msgstr "Verarbeitung laeuft..."
 
 msgid "percentage_completion"
 msgstr "Verarbeitung zu ${percentage}% abgeschlossen..."
